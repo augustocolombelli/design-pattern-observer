@@ -12,5 +12,7 @@ The method responsible for notify all observers:
 		}
 	}
 ``` 
+#### Class Diagram
+![My image](https://github.com/augustocolombelli/design-pattern-observer/blob/master/ClassDiagram.png)
 
 
